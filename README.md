@@ -12,6 +12,9 @@ Upload a CSV file of ranked choice election results and receive instant round-by
 1. Choose any name for the election
 2. When entering the csv file name, omit ".csv"
 
+<b> Test Ballots </b>
+The testBallots folder contains 7 csv files that can be used to demonstrate the functionality of the software in different conditions.
+
 <b><h3> How Does an Instant Runoff Voting Election (IRV) Work? </b></h2>
 In an IRV election, a majority of votes is required to win, as opposed to a plurality.
 For elections with more than 2 candidates, 1 candidate often fails to reach an absolute majority of votes.
